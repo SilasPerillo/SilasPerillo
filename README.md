@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Silas!</h1>
-<p align="center">I'm currently learning Development Web Full Stack on <a href="https://www.betrybe.com/" target="_blank">Trybe</a> 🧑‍💻</p>
-<p align="center">Feel free, here are some of the projects I've been carrying out!</p>
+<p align="center">Atualmente sou estudande de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> 🧑‍💻</p>
+<p align="center">Fique à vontade, aqui estão alguns dos projetos que venho realizando!</p>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/silas-perillo/">
+ <!-- <a href="https://www.linkedin.com/in/silas-perillo/"> -->
   <img height="180em" alt="Silas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasPerillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" alt="Silas Github Status" src="https://github-readme-stats.vercel.app/api?username=SilasPerillo&show_icons=true&theme=tokyonight"/>
 </div>

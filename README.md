@@ -4,6 +4,7 @@
 <p align="center">Sou desenvolvedor Full Stack Web, formado na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> 🧑‍💻</p>
 <p align="center">Meu foco principal é o Back-end, mas também tenho experiência em Front-end e banco de dados.</p>
 <p align="center">Estou em constante busca de me desenvolver e aprender novas tecnologias, gosto muito de ajudar meus colegas, assim aprendo e compartilho o que tenho aprendido.</p>
+<p align="center">Atualmente estudando C#</p>
 <p align="center">Fique à vontade, aqui estão alguns dos projetos que venho realizando!</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/silas-perillo/)
